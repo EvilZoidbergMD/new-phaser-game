@@ -1,0 +1,20 @@
+{
+  "name": "new-phaser-game",
+  "version": "1.0.0",
+  "description": "New blank project that can be added to to make a Phaser game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvilZoidbergMD/new-phaser-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvilZoidbergMD/new-phaser-game/issues"
+  },
+  "homepage": "https://github.com/EvilZoidbergMD/new-phaser-game#readme"
+}
